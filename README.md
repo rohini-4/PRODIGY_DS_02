@@ -1,8 +1,8 @@
-Task 02 – Basic Data Exploration & Visualization
+### Task 02 – Basic Data Exploration & Visualization
 
 Performed initial exploration and preprocessing on a dataset to understand its structure and quality before modeling.
 
-Work Done:
+## Work Done:
 
 Dataset loading and preview (head, tail)
 
@@ -14,5 +14,5 @@ Checked for missing values and duplicate records
 
 Created multiple visualizations to understand data distribution
 
-Skills Used:
+## Skills Used:
 Exploratory Data Analysis • Data Inspection • Missing Value Analysis • Visualization
